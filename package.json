@@ -1,0 +1,14 @@
+{
+  "name": "encript",
+  "version": "1.0.0",
+  "description": "Este módulo proporciona funcionalidades para encriptar y desencriptar mensajes, generar claves aleatorias, hashear contraseñas y simular ataques de fuerza bruta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
